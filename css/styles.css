@@ -1,0 +1,93 @@
+#title{
+    background-image: url("https://images.unsplash.com/photo-1584477791578-a60f675543bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2900&q=80");
+    background-size: cover;
+}
+
+.title{
+    width: 1440px;
+    height:720px ;
+    padding-top: 5%;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 100px;
+
+    
+}
+
+.title-text{
+    text-align: center;
+    font-family: 'Amita', cursive;
+    font-size: 20px;
+    color: #fff;
+   
+
+}
+
+.center-nav{
+    padding:5% 38%;
+    
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+    
+  }
+ 
+  
+  .nav-item {
+    padding: 0 18px;
+    
+  }
+  
+  .nav-link {
+    
+    font-size: 1.5rem;
+    color: #fff;
+    font-family: 'Amita', cursive;
+
+    
+  }
+
+  #services{
+      height: auto;
+  }
+
+  .contaier-fluid{
+      padding: 10%
+  }
+  .last{
+      text-align: center;
+  }
+  .icon {
+    color: #06703f;
+    padding-bottom: 10%;
+    font-size: 5rem;
+  }
+  .feature-box {
+    text-align: center;
+  }
+#contact{
+    height: 500px;
+    background-color:#06703f ;
+    color: #fff;
+    font-family: 'Amita', cursive;
+
+}
+
+.spl{
+    text-align: center;
+    padding: 10%
+}
+
+h2{
+    padding:5%; 
+}
+
+#footer {
+    text-align: center;
+    padding: 3% 15%;
+  }
